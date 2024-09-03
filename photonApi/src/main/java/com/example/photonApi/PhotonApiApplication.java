@@ -8,6 +8,7 @@ public class PhotonApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PhotonApiApplication.class, args);
+
 	}
 
 }
